@@ -12,7 +12,7 @@
     Jinja2==3.0.1
     MarkupSafe==2.0.1
     pycparser==2.20
-    PyMySQL==1.0.2
+    PyMySQL==1.0.2g
     Werkzeug==2.0.1
 
 ## Instalacion
