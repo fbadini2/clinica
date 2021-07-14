@@ -7,7 +7,7 @@ sqlconn = MySQL()
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = '#171Nolaadi'
-app.config['MYSQL_DB'] = 'flaskcontacts'
+app.config['MYSQL_DB'] = 'clinica'
 mysql = MySQL(app)
 
 
